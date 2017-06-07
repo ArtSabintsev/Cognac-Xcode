@@ -30,9 +30,13 @@ Color | Palette | Hex | Usage
 - Documentation Keywords, which are light-gray, should always be bolded.
 
 ## Installation Instructions
+### Automatic
+Download this repo's zip file, unzip it, and run `./install.sh` from the root directory.
+
+### Manual
 Download `Cognac.xccolortheme` and copy it into the following directory:
 ```
-~/Library/Developer/Xcode/UserData/FontAndColorThemes
+~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 ```
 
 ## Credits
