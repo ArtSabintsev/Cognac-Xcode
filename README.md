@@ -7,7 +7,7 @@ Cognac is a theme composed of 11 colors that are easy on the eyes on both normal
 Cognac is available for many other editors at http://github.com/ArtSabintsev/Cognac.
 
 ## Screenshot
-<img src="Example.png" height="600">
+<img src="Example.png" height="800">
 
 ## Palette
 
